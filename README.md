@@ -1,4 +1,7 @@
-#### 👋 Fay Bennedik | Data Scientist (5 years).
+## 👋 Hi, I'm Fay Bennedik 
+
+
+👩 I'm a Data Scientist (5 years).
 
 
 🌟 Currently working on Machine Learning and Computer Vision.
@@ -7,7 +10,7 @@
 🛠️ Hands-on experience with TensorFlow, Keras and OpenCV.
 
 
-🐾 Passionate about using AI for positive impact, especially wildlife conservation.
+🐾 Passionate about using AI for positive impacts, especially wildlife conservation.
 
 
 🌱 Former Full Stack Developer (2 years).

@@ -1,4 +1,26 @@
-## Hi there 👋
+#### 👋 Fay Bennedik | Data Scientist (5 years).
+
+
+🌟 Currently working on Machine Learning and Computer Vision.
+
+
+🛠️ Hands-on experience with TensorFlow, Keras and OpenCV.
+
+
+🐾 Passionate about using AI for positive impact, especially wildlife conservation.
+
+
+🌱 Former Full Stack Developer (2 years).
+
+
+📐 MEng Engineering Mathematics, University of Bristol.
+
+
+👯 Open to collaborate on projects.
+
+
+📫 How to reach me: fbennedik1@gmail.com
+
 
 <!--
 **fay3000/fay3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

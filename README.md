@@ -1,28 +1,28 @@
 ## 👋 Hi, I'm Fay Bennedik 
 
 
-👩 I'm a Data Scientist (5 years).
+- 👩 I'm a Data Scientist (5 years).
 
 
-🌟 Currently working on Machine Learning and Computer Vision.
+- 🌟 Currently working on Machine Learning and Computer Vision.
 
 
-🛠️ Hands-on experience with TensorFlow, Keras and OpenCV.
+- 🛠️ Hands-on experience with TensorFlow, Keras and OpenCV.
 
 
-🐾 Passionate about using AI for positive impacts, especially wildlife conservation.
+- 🐾 Passionate about using AI for positive impacts, especially wildlife conservation.
 
 
-🌱 Former Full Stack Developer (2 years).
+- 🌱 Former Full Stack Developer (2 years).
 
 
-📐 MEng Engineering Mathematics, University of Bristol.
+- 📐 MEng Engineering Mathematics, University of Bristol.
 
 
-👯 Open to collaborate on projects.
+- 👯 Open to collaborate on projects.
 
 
-📫 How to reach me: fbennedik1@gmail.com
+- 📫 How to reach me: fbennedik1@gmail.com
 
 
 <!--
